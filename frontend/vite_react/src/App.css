@@ -1,0 +1,15 @@
+
+.live{
+   position: relative;
+}
+.live::before{
+  position: absolute;
+  content: "";
+  width: 15px;
+  height: 15px;
+  background: yellowgreen;
+  border-radius: 50%;
+  right:0;
+  top:0;
+  
+}

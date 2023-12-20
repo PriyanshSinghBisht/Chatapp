@@ -1,0 +1,6 @@
+
+node_modules/
+
+backend/package.lock.json
+
+frontend/vite_react/package.lock.json
